@@ -139,6 +139,14 @@ ul{
     z-index: -1;
 }
 
+.middle-box{
+
+    background-image: url(../images/Middle-design.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
 .middle-title{
 
     text-align: right;
@@ -149,7 +157,7 @@ ul{
     font-size: 3.7rem;
     font-weight: 600;
     color: #c3eafb;
-    padding: 40% 10% 10% 0;
+    padding: 20% 6% 10% 44%;
 }
 
 #Products{
@@ -216,5 +224,39 @@ ul{
 #Footer{
 
     background-color: #f9f9f9;
+    
 
 }
+
+
+/* ===== Media Query ===== */
+
+@media (max-width:768px){
+
+    .poduct-box{
+
+        margin-bottom: 6%;
+    }
+}
+
+@media (max-width:576px){
+
+    .contact-box h3{
+
+        text-align: center;
+        padding-left: 0;
+
+    }
+    
+    .contact{
+    
+        text-align: center;
+    
+    }
+
+    ul{
+
+        padding-left: 0;
+    }
+}
+
