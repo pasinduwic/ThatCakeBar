@@ -1,0 +1,193 @@
+/* ===== Global Styles ===== */
+ul{
+
+    list-style-type: none;
+    padding-left: 60px;
+}
+/* ===== Navbar Styles ===== */
+.navbar-img{
+
+    width: 100px;
+    height: 100px;
+}
+
+.btn-outline-success{
+
+    color: #c3eafb;
+    border-color: #c3eafb;
+
+}
+.btn-outline-success:hover{
+
+    color: #000;
+    background-color: #c3eafb;
+    border-color: #c3eafb;
+}
+/* ===== slider Styles ===== */
+.Slider{
+
+    text-align: center;
+
+}
+
+.carousel-item img{
+
+    width: 100%;
+    height: 600px;
+}
+
+/* ===== About section Styles ===== */
+.about{
+
+    text-align: center;
+
+}
+
+.title1{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5.6rem;
+    font-weight: 200;
+    color: #c3eafb;
+}   
+
+.title2{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.7rem;
+    font-weight: 600;
+    color: #c3eafb;
+}  
+
+.about p{
+
+    margin: 2% 10% 2% 10%;
+}
+
+.btn-outline-info{
+
+    color: #c3eafb;
+    border-color: #c3eafb;
+    margin-bottom: 60px;
+}
+.btn-outline-info:hover{
+
+    color: #000;
+    background-color: #c3eafb;
+    border-color: #c3eafb;
+}
+
+.Category-img{
+
+    width: 80%;
+    height: 299.3px;
+}
+
+.categories{
+
+    text-align: center;
+    font-weight: 100;
+    margin: 0 40px;
+    
+}
+
+.categories h3{
+
+    font-weight: 100;
+    margin: 40px 0;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.categories h3:hover{
+
+    color: #c3eafb;
+}
+
+.middle-img{
+
+    width: 100%;
+    height: 80%;
+    position: absolute;
+    z-index: -1;
+}
+
+.middle-title{
+
+    text-align: right;
+    position: relative;
+    right: 2%;
+    bottom: 10%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.7rem;
+    font-weight: 600;
+    color: #c3eafb;
+    padding: 40% 10% 10% 0;
+}
+
+#Products{
+
+    text-align: center;
+    margin: 0 5%;
+}
+
+#Products h2{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #c3eafb;
+    font-size: 3rem;
+    margin: 8% 0 6% 0;
+}
+
+.order-btn{
+
+    margin-bottom: 0;
+}
+
+.footer-base{
+
+    text-align: center;
+}
+
+.footer-img{
+
+    width: 40px;
+
+}
+
+.footer-uper{
+
+    text-align: center;
+    margin: 8% 5% 0 5%;
+
+}
+
+.contact-box h3{
+
+    text-align: left;
+    padding-left: 60px;
+}
+
+.contact{
+
+    text-align: left;
+
+}
+
+.contact-title{
+
+    font-weight: 600;
+}
+
+.links a{
+
+    margin: 0 10px;
+    color: black;
+}
+
+#Footer{
+
+    background-color: #f9f9f9;
+
+}
